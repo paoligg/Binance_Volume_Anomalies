@@ -16,7 +16,13 @@ You can clone this repo :
 $ git clone <this repo url>
 ```
 
-Use a cronjob to make it run every hour : 
+Launch the createtable.sh script :
+
+```Bash
+$ source createtable.sh
+```
+
+Then use a cronjob to make it run every hour : 
 
 * Open your crontab file :
 ```Bash
