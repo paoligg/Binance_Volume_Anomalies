@@ -8,6 +8,9 @@ The API used is https://www.coinapi.io/
 It detects anomalies given a confidence interval of 95%. 
 
 It is linked to a website that gives an history of all the anomalies registered, and it sends a Telegram notification with the newly added anomalies. 
+The address is the following :  http://3.83.91.134/ 
+
+You can deploy your own website with APACHE or NGINX. 
 
 You can host this script on your machine, or on any remote server. 
 You can clone this repo : 
